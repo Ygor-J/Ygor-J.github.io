@@ -6,3 +6,4 @@ function readFile(file) {
     });
     reader.readAsDataURL(file);
 }
+readFile(file);
